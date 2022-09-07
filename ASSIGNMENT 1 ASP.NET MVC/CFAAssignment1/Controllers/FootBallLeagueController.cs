@@ -35,7 +35,7 @@ namespace CFAAssignment1.Controllers
                 }
                 else
                 {
-                    ViewBag.InsertMessage = "<script>alert('Data Not Inserted!')</script>";
+                    ViewBag.ErrorMessage = "<script>alert('Data Not Inserted!')</script>";
                 }
                 
             }

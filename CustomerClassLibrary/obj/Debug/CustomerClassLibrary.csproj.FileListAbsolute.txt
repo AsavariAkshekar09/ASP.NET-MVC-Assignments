@@ -1,0 +1,6 @@
+D:\ASP .NET MVC\CustomerClassLibrary\bin\Debug\CustomerClassLibrary.pdb
+D:\ASP .NET MVC\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.csproj.AssemblyReference.cache
+D:\ASP .NET MVC\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+D:\ASP .NET MVC\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.dll
+D:\ASP .NET MVC\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.pdb
+D:\ASP .NET MVC\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.csproj.CopyComplete

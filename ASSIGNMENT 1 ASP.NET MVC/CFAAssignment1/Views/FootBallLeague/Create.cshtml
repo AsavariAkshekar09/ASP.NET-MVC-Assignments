@@ -6,7 +6,8 @@
 
 <h2>Create</h2>
 
-@Html.Raw(ViewBag.InsertMessage)
+@Html.Raw(ViewBag.ErrorMessage)
+@Html.Raw(TempData["InsertMessage"])
 
 @using (Html.BeginForm()) 
 {
